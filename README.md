@@ -1,49 +1,54 @@
-Olá! Eu sou o Kauan Cavalcante!
+# Olá! Eu sou o Kauan 👋
 
-**Estudante de Engenharia de Software**,
-**Desenvolvedor Back-end em formação**,
-**Técnico em Logística**
+Sou estudante de Engenharia de Software e Desenvolvedor Back-end em formação.
 
-Sou estudante de Engenharia de Software e estou construindo minha trajetória na área de tecnologia. Atualmente, estou desenvolvendo meus conhecimentos em logica de programação, Python, SQL, Git/GitHub e desenvolvimento de sistemas, buscando transformar o aprendizado em projetos práticos.
-Minha formação em Logística também faz parte da minha trajetória profissional e contribuiu para o desenvolvimento de habilidades como organização, análise e resolução de problemas. Meu objetivo é unir essa experiência aos meus conhecimentos em tecnologia para desenvolver soluções cada vez mais eficientes e práticas
+Atualmente, estou aprimorando meus conhecimentos em lógica de programação, Python, SQL, Git, GitHub e desenvolvimento de sistemas. Tenho interesse em aprender novas tecnologias e transformar meus conhecimentos em projetos práticos.
 
-## **Tecnologias e conhecimentos:**
+## Sobre mim
 
-* **Python** — em aprendizado
-* **SQL** — em aprendizado
-* **Git & GitHub**
-* **Lógica de Programação**
-* **Engenharia de Software**
-* **Excel e análise de dados**
+Minha formação em Logística também faz parte da minha trajetória profissional e contribuiu para o desenvolvimento de habilidades como organização, análise e resolução de problemas.
 
-## **Projetos**
+Meu objetivo é unir essa experiência aos meus conhecimentos em tecnologia para desenvolver soluções cada vez mais eficientes e práticas.
 
-Utilizo meus projetos como forma de colocar em prática os conhecimentos adquiridos durante meus estudos.
+## Tecnologias e conhecimentos
 
-🔹 **Calculadora em Python**
-🔹 **Sistema de Controle de Estoque**
-🔹 **Jogo da Forca em Python**
-🔹 **Exercícios e projetos de lógica de programação**
+* Python
+* SQL
+* Git e GitHub
+* Lógica de programação
+* Engenharia de Software
+* Excel
 
-> Novos projetos serão adicionados conforme avanço na minha jornada de aprendizado.
+Atualmente, meu foco principal é evoluir na programação e fortalecer minha base para atuar como desenvolvedor Back-end.
 
-## **Áreas de interesse**
+## Projetos
 
-Tenho interesse principalmente em:
+Estou desenvolvendo projetos para colocar em prática os conhecimentos adquiridos durante meus estudos, incluindo:
 
-* Desenvolvimento **Back-end**
+* Calculadora em Python
+* Sistema de controle de estoque
+* Jogo da Forca em Python
+* Exercícios de lógica de programação
+
+Novos projetos serão adicionados conforme minha evolução.
+
+## Interesses
+
+Tenho interesse em:
+
+* Desenvolvimento Back-end
 * Desenvolvimento de sistemas
-* **APIs**
+* APIs
 * Bancos de dados
 * Automação de processos
-* Lógica e estruturas de programação
 * Engenharia de Software
 
-## **Atualmente**
+## Objetivo
 
-Estou focado em fortalecer minha base de programação, desenvolver projetos e aprender novas tecnologias. Meu objetivo é conquistar experiência profissional na área de tecnologia e evoluir continuamente como desenvolvedor.
+Meu objetivo é construir uma carreira na área de tecnologia, adquirir experiência profissional como desenvolvedor e continuar evoluindo por meio de estudos e projetos práticos.
 
-### **Em constante aprendizado**
+Este GitHub será utilizado para registrar minha evolução, compartilhar meus projetos e mostrar minha jornada na área de desenvolvimento.
 
-**Aprender → Praticar → Desenvolver → Evoluir 🚀**
+---
 
+Aprender. Praticar. Desenvolver. Evoluir. 🚀
