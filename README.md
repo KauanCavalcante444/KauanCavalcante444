@@ -1,4 +1,4 @@
-# Olá! Eu sou o Kauan 👋
+# Olá! Eu sou o Kauan Cavalcante!
 
 🎓 **Estudante de Engenharia de Software**
 💻 **Desenvolvedor Back-end em formação**
