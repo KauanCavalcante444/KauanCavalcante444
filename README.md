@@ -4,20 +4,20 @@ Olá! Eu sou o Kauan Cavalcante!
 **Desenvolvedor Back-end em formação**,
 **Técnico em Logística**
 
-Sou estudante de Engenharia de Software e estou construindo minha trajetória na área de tecnologia. Atualmente, estou desenvolvendo meus conhecimentos em **lógica de programação, Python, SQL, Git/GitHub e desenvolvimento de sistemas**, buscando transformar o aprendizado em projetos práticos.
+Sou estudante de Engenharia de Software e estou construindo minha trajetória na área de tecnologia. Atualmente, estou desenvolvendo meus conhecimentos em lógica de programação, Python, SQL, Git/GitHub e desenvolvimento de sistemas, buscando transformar o aprendizado em projetos práticos.
 
 Minha formação em Logística também faz parte da minha trajetória profissional e contribui para minha visão de processos, organização, análise e resolução de problemas. Meu objetivo é unir essa experiência aos conhecimentos de tecnologia para desenvolver soluções cada vez mais eficientes.
 
-## 🛠️ Tecnologias e conhecimentos
+## **Tecnologias e conhecimentos:**
 
-* 🐍 **Python** — em aprendizado
-* 🗄️ **SQL** — em aprendizado
-* 🔧 **Git & GitHub**
-* 💻 **Lógica de Programação**
-* 📚 **Engenharia de Software**
-* 📊 **Excel e análise de dados**
+* **Python** — em aprendizado
+* **SQL** — em aprendizado
+* **Git & GitHub**
+* **Lógica de Programação**
+* **Engenharia de Software**
+* **Excel e análise de dados**
 
-## 🚀 Projetos
+## **Projetos**
 
 Utilizo meus projetos como forma de colocar em prática os conhecimentos adquiridos durante meus estudos.
 
@@ -28,7 +28,7 @@ Utilizo meus projetos como forma de colocar em prática os conhecimentos adquiri
 
 > Novos projetos serão adicionados conforme avanço na minha jornada de aprendizado.
 
-## 🎯 Áreas de interesse
+## **Áreas de interesse**
 
 Tenho interesse principalmente em:
 
@@ -40,11 +40,11 @@ Tenho interesse principalmente em:
 * Lógica e estruturas de programação
 * Engenharia de Software
 
-## 📈 Atualmente
+## **Atualmente**
 
 Estou focado em fortalecer minha base de programação, desenvolver projetos e aprender novas tecnologias. Meu objetivo é conquistar experiência profissional na área de tecnologia e evoluir continuamente como desenvolvedor.
 
-### 🌱 Em constante aprendizado
+### **Em constante aprendizado**
 
 **Aprender → Praticar → Desenvolver → Evoluir 🚀**
 
