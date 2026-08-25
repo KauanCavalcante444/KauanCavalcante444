@@ -1,7 +1,7 @@
 Olá! Eu sou o Kauan Cavalcante!
 
 🎓 **Estudante de Engenharia de Software**,
-💻 **Desenvolvedor Back-end em formação**
+💻 **Desenvolvedor Back-end em formação**,
 📦 **Técnico em Logística**
 
 Sou estudante de Engenharia de Software e estou construindo minha trajetória na área de tecnologia. Atualmente, estou desenvolvendo meus conhecimentos em **lógica de programação, Python, SQL, Git/GitHub e desenvolvimento de sistemas**, buscando transformar o aprendizado em projetos práticos.
