@@ -8,8 +8,6 @@ Sou estudante de Engenharia de Software e estou construindo minha trajetória na
 
 Minha formação em logística também faz parte da minha trajetória profissional e contribuiu para o desenvolvimento de habilidades como organização, análise e resolução de problemas. Meu objetivo é unir essa experiência ao conhecimentos de tecnologia pra desenvolver soluções cada vez mais eficientes.
 
-
-
 ## **Tecnologias e conhecimentos:**
 
 * **Python** — em aprendizado
