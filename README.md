@@ -5,7 +5,6 @@ Olá! Eu sou o Kauan Cavalcante!
 **Técnico em Logística**
 
 Sou estudante de Engenharia de Software e estou construindo minha trajetória na área de tecnologia. Atualmente, estou desenvolvendo meus conhecimentos em logica de programação, Python, SQL, Git/GitHub e desenvolvimento de sistemas, buscando transformar o aprendizado em projetos práticos.
-
 Minha formação em Logística também faz parte da minha trajetória profissional e contribuiu para o desenvolvimento de habilidades como organização, análise e resolução de problemas. Meu objetivo é unir essa experiência aos meus conhecimentos em tecnologia para desenvolver soluções cada vez mais eficientes e práticas
 
 ## **Tecnologias e conhecimentos:**
